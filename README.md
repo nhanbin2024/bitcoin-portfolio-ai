@@ -1,7 +1,5 @@
 # Bitcoin Portfolio AI
-
 Production-ready AI-powered Bitcoin L1 wallet analytics.
-
 ## Features
 - REST API server
 - CLI mode
