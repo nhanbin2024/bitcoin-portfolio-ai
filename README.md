@@ -20,3 +20,6 @@ npm run dev:cli <bitcoin_address>
 ## Docker
 docker build -t bitcoin-ai .
 docker run -p 3000:3000 bitcoin-ai
+## Docker
+docker build -t bitcoin-ai .
+docker run -p 3000:3000 bitcoin-ai
